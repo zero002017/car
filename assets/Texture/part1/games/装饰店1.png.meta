@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "156e8494-691d-4462-85c8-1e7b18ac09fb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 128,
+  "height": 138,
+  "platformSettings": {},
+  "subMetas": {
+    "装饰店1": {
+      "ver": "1.0.4",
+      "uuid": "5a9b363b-25d3-4353-91fb-048858d42e53",
+      "rawTextureUuid": "156e8494-691d-4462-85c8-1e7b18ac09fb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 128,
+      "height": 137,
+      "rawWidth": 128,
+      "rawHeight": 138,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

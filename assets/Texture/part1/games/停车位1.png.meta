@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "be378186-dbb7-4fbc-95b9-ba4660eeada1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 10,
+  "height": 55,
+  "platformSettings": {},
+  "subMetas": {
+    "停车位1": {
+      "ver": "1.0.4",
+      "uuid": "e4a6df15-8c86-43be-9aa2-fafcf3595c7d",
+      "rawTextureUuid": "be378186-dbb7-4fbc-95b9-ba4660eeada1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 9,
+      "height": 55,
+      "rawWidth": 10,
+      "rawHeight": 55,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

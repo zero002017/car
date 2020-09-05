@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "964d53d3-b616-480e-9e01-ccb6519edb1c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 88,
+  "height": 165,
+  "platformSettings": {},
+  "subMetas": {
+    "洗车房牌": {
+      "ver": "1.0.4",
+      "uuid": "666df719-eb06-4efb-9b85-ccf1105958f2",
+      "rawTextureUuid": "964d53d3-b616-480e-9e01-ccb6519edb1c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 88,
+      "height": 165,
+      "rawWidth": 88,
+      "rawHeight": 165,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

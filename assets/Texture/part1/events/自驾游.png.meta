@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "dd516543-7491-4fd6-92a6-1e63f5b3d216",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 135,
+  "height": 135,
+  "platformSettings": {},
+  "subMetas": {
+    "自驾游": {
+      "ver": "1.0.4",
+      "uuid": "c16f845a-d7e7-48dc-9e2b-ec307f06fc80",
+      "rawTextureUuid": "dd516543-7491-4fd6-92a6-1e63f5b3d216",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 135,
+      "height": 135,
+      "rawWidth": 135,
+      "rawHeight": 135,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

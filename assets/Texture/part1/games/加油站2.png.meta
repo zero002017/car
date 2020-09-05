@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "78f21ca1-3b61-480c-a413-eda47e58f2da",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 41,
+  "height": 122,
+  "platformSettings": {},
+  "subMetas": {
+    "加油站2": {
+      "ver": "1.0.4",
+      "uuid": "5ad6770c-798f-4b94-bd3b-b0a5c17a9dcb",
+      "rawTextureUuid": "78f21ca1-3b61-480c-a413-eda47e58f2da",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 41,
+      "height": 122,
+      "rawWidth": 41,
+      "rawHeight": 122,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

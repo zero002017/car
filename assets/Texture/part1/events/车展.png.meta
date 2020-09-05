@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "786430ac-6e69-4a2f-b44a-f54e1ab21914",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 135,
+  "height": 135,
+  "platformSettings": {},
+  "subMetas": {
+    "车展": {
+      "ver": "1.0.4",
+      "uuid": "7def77de-1124-4c44-9b42-20e6a12da4b2",
+      "rawTextureUuid": "786430ac-6e69-4a2f-b44a-f54e1ab21914",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 135,
+      "height": 135,
+      "rawWidth": 135,
+      "rawHeight": 135,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

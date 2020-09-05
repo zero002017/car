@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "727fb0d5-e491-4435-8216-f23cb067d643",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 71,
+  "height": 37,
+  "platformSettings": {},
+  "subMetas": {
+    "每日_奖励2": {
+      "ver": "1.0.4",
+      "uuid": "7d3b9de0-26f6-495f-a2ec-3f9230763539",
+      "rawTextureUuid": "727fb0d5-e491-4435-8216-f23cb067d643",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 71,
+      "height": 37,
+      "rawWidth": 71,
+      "rawHeight": 37,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

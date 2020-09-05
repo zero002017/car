@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c178f28c-f1f2-4beb-abd5-d8a538218101",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 135,
+  "height": 135,
+  "platformSettings": {},
+  "subMetas": {
+    "采访": {
+      "ver": "1.0.4",
+      "uuid": "a854eb7e-beba-443b-a7cc-352dfe40f6d3",
+      "rawTextureUuid": "c178f28c-f1f2-4beb-abd5-d8a538218101",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 135,
+      "height": 135,
+      "rawWidth": 135,
+      "rawHeight": 135,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

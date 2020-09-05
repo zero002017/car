@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "194a8a93-669d-430b-896e-d469087d6592",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 183,
+  "height": 191,
+  "platformSettings": {},
+  "subMetas": {
+    "每日钻石4": {
+      "ver": "1.0.4",
+      "uuid": "4eada1af-9768-40c3-b120-1ae9dc7fd81a",
+      "rawTextureUuid": "194a8a93-669d-430b-896e-d469087d6592",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 183,
+      "height": 191,
+      "rawWidth": 183,
+      "rawHeight": 191,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
